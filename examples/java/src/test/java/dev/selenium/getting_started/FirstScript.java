@@ -29,3 +29,6 @@ public class FirstScript {
         driver.quit();
     }
 }
+{
+    webElement TextBox = driver.findElement (By.name("my-text"));
+    
